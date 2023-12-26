@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div align="center">
-  <img align="center" alt="Coding" width="98%" height="200%" src="https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133">
-</div>
+<!--   <img align="center" alt="Coding" width="98%" height="200%" src="https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133">
+</div> -->
 
 <h1 align="center">Hi <img src='https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png' width="50px" style="position: relative; top: 155px;">, I'm Prasad Darshana</h1>
 
@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3> <strong>⚒️ Languages, Frameworks, and Tools </strong></h3>
-<img src="https://skillicons.dev/icons?i=github,java,python,cplusplus,springboot,nodejs,flask,react,js,angular,tensorflow,scikitlearn,opencv,keras,mysql,mongodb,postgresql" alt="skills logos" /> 
+<img src="https://skillicons.dev/icons?i=github,java,python,cpp,nodejs,flask,react,js,angular,tensorflow,mysql,mongodb,postgresql" alt="skills logos" /> 
 
 <h3> <strong> Actively Learning </strong></h3>
 <img src="https://skillicons.dev/icons?i=javascript,angular,tensorflow,scikitlearn,opencv,keras" alt="skills actively learning logos"> <br>
