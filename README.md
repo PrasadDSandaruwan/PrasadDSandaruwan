@@ -4,7 +4,7 @@
 </div> -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Prasad Darshana" />
+  <img src="https://raw.githubusercontent.com/prasaddarshana/prasaddarshana/master/name.svg" alt="Prasad Darshana" />
 </h1>
 
 <h1 align="center">Hi <img src='https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png' width="50px" style="position: relative; top: 155px;">, I'm Prasad Darshana</h1>
