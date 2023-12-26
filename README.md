@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div align="center">
   <img align="center" alt="Coding" width="98%" height="200%" src="https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133">
@@ -14,7 +13,7 @@
 <h3> <strong>⚒️ Languages, Frameworks, and Tools </strong></h3>
 <!-- <img src="https://skillicons.dev/icons?i=github,java,python,cpp,nodejs,flask,react,js,angular,tensorflow,mysql,mongodb,postgresql" alt="skills logos" /> 
  -->
- <img src="https://skillicons.dev/icons?i=github,nodejs,html,css,cs,cpp,c,tailwind,js,react,java,py,mongodb,mysql,atom,eclipse,vscode,postman,figma,linux,r,postgres,php,xd,express,materialui,redux" alt="skills logos" /> 
+ <img src="https://skillicons.dev/icons?i=github,flask,tensorflow,nodejs,html,css,cs,cpp,c,tailwind,js,react,java,py,mongodb,mysql,atom,eclipse,vscode,postman,figma,linux,r,postgres,php,xd,express,materialui,redux" alt="skills logos" /> 
  
 <h3> <strong> Actively Learning </strong></h3>
 <img src="https://skillicons.dev/icons?i=javascript,angular,tensorflow,scikitlearn,opencv,keras" alt="skills actively learning logos"> <br>
